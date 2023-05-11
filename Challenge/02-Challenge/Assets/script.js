@@ -1,17 +1,17 @@
 const quizQuestions = [
     {
-      question: "What is the capital of France?",
-      answers: ["Berlin", "Paris", "Rome", "Madrid"],
-      correctAnswerIndex: 1
-    },
-    {
-      question: "What is the largest planet in our solar system?",
-      answers: ["Jupiter", "Venus", "Mars", "Saturn"],
+      question: "What is a coding language?",
+      answers: ["Javascript", "French", "English", "Madrid"],
       correctAnswerIndex: 0
     },
     {
-      question: "What is the primary language spoken in Brazil?",
-      answers: ["Spanish", "Portuguese", "English", "French"],
+      question: "What is a common systling preset?",
+      answers: ["Checkers", "Arts", "Bootstrap", "Saturn"],
+      correctAnswerIndex: 2
+    },
+    {
+      question: "What are Lists in HTML?",
+      answers: ["Chinese List", "Ordered List", "Java List", "Common List"],
       correctAnswerIndex: 1
     }
   ];
